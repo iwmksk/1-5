@@ -38,56 +38,56 @@ header {
   flex-wrap: wrap;
 }
 
-#content{
+.content{
   width: 200px;
   height: 200px;
 }
 
-.content1{
+#content1{
   background-color: #e6ffe9;
 }
 
-.content2{
+#content2{
   background-color: #cbffd3;
 }
 
-.content3{
+#content3{
   background-color: #aeffdd;
 }
 
-.content4{
+#content4{
   background-color: #93ffab;
 }
 
-.content5{
+#content5{
   background-color: #f3ffd8;
 }
 
-.content6{
+#content6{
   background-color: #edffbe;
 }
 
-.content7{
+#content7{
   background-color: #e9ffa5;
 }
 
-.content8{
+#content8{
   background-color: #e4ff8d;
 }
 
-.content9{
+#content9{
   background-color: #d9e5ff;
 }
 
-.content10{
+#content10{
   background-color: #bad3ff;
 }
 
-.content11{
+#content11{
   background-color: #a4c6ff;
 }
 
-.content12{
+#content12{
   background-color: #8eb8ff;
 }
 
